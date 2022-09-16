@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Examples\Example006_гири\bin\Debug\net6.0\Example006_гири.exe
+C:\Users\User\Desktop\Examples\Example006_гири\bin\Debug\net6.0\Example006_гири.deps.json
+C:\Users\User\Desktop\Examples\Example006_гири\bin\Debug\net6.0\Example006_гири.runtimeconfig.json
+C:\Users\User\Desktop\Examples\Example006_гири\bin\Debug\net6.0\Example006_гири.dll
+C:\Users\User\Desktop\Examples\Example006_гири\bin\Debug\net6.0\Example006_гири.pdb
+C:\Users\User\Desktop\Examples\Example006_гири\obj\Debug\net6.0\Example006_гири.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Examples\Example006_гири\obj\Debug\net6.0\Example006_гири.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Examples\Example006_гири\obj\Debug\net6.0\Example006_гири.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Examples\Example006_гири\obj\Debug\net6.0\Example006_гири.AssemblyInfo.cs
+C:\Users\User\Desktop\Examples\Example006_гири\obj\Debug\net6.0\Example006_гири.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examples\Example006_гири\obj\Debug\net6.0\Example006_гири.dll
+C:\Users\User\Desktop\Examples\Example006_гири\obj\Debug\net6.0\refint\Example006_гири.dll
+C:\Users\User\Desktop\Examples\Example006_гири\obj\Debug\net6.0\Example006_гири.pdb
+C:\Users\User\Desktop\Examples\Example006_гири\obj\Debug\net6.0\Example006_гири.genruntimeconfig.cache
+C:\Users\User\Desktop\Examples\Example006_гири\obj\Debug\net6.0\ref\Example006_гири.dll
